@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, C++
+- **Languages**: JavaScript, Python, Java
 - **Frontend**: React, Tailwind, Bootstrap, EJS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
@@ -82,6 +82,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/anurag-gupta-b566a224b/)
 - [GitHub](https://github.com/Anurag888000)
+- [Email](hAshish888000@gmail.com)
 
 ---
 
