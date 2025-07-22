@@ -82,7 +82,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/anurag-gupta-b566a224b/)
 - [GitHub](https://github.com/Anurag888000)
-- [Email](Ashish888000@gmail.com)
+- [Email](mailto:Ashish888000@gmail.com)
 
 ---
 
